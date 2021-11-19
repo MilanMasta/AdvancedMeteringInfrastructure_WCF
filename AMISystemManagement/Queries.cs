@@ -174,6 +174,7 @@ namespace AMISystemManagement
             {
                 SqlCommand cmd = new SqlCommand();
                 cmd.Connection = con;
+                //BACACE EXC JER NEMA OTVOREN LOKALNI SQL SERVER
                 con.Open();
                 cmd.CommandText = comand;
                 cmd.ExecuteNonQuery();
