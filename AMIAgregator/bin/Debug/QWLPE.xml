@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAMIDeviceStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AMIDeviceStruct>
+    <AMIDeviceCode>468562601</AMIDeviceCode>
+    <Timestamp>1626414105</Timestamp>
+    <Measures>
+      <MeasureStruct>
+        <Type>Napon</Type>
+        <Value>166</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>Struja</Type>
+        <Value>7</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>AktivnaSnaga</Type>
+        <Value>20</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>ReaktivnaSnaga</Type>
+        <Value>1</Value>
+      </MeasureStruct>
+    </Measures>
+  </AMIDeviceStruct>
+</ArrayOfAMIDeviceStruct>

@@ -1,0 +1,44 @@
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CopyComplete
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CopyComplete
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CopyComplete
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CopyComplete
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.csproj.CopyComplete
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMICommon2\obj\Debug\AMICommon2.pdb

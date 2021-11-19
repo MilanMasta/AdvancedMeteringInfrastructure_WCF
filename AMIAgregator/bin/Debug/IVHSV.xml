@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAMIDeviceStruct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AMIDeviceStruct>
+    <AMIDeviceCode>-1127617489</AMIDeviceCode>
+    <Timestamp>1625576007</Timestamp>
+    <Measures>
+      <MeasureStruct>
+        <Type>Napon</Type>
+        <Value>164</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>Struja</Type>
+        <Value>19</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>AktivnaSnaga</Type>
+        <Value>28</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>ReaktivnaSnaga</Type>
+        <Value>1</Value>
+      </MeasureStruct>
+    </Measures>
+  </AMIDeviceStruct>
+  <AMIDeviceStruct>
+    <AMIDeviceCode>-1127617489</AMIDeviceCode>
+    <Timestamp>1625630007</Timestamp>
+    <Measures>
+      <MeasureStruct>
+        <Type>Napon</Type>
+        <Value>238</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>Struja</Type>
+        <Value>5</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>AktivnaSnaga</Type>
+        <Value>27</Value>
+      </MeasureStruct>
+      <MeasureStruct>
+        <Type>ReaktivnaSnaga</Type>
+        <Value>0</Value>
+      </MeasureStruct>
+    </Measures>
+  </AMIDeviceStruct>
+</ArrayOfAMIDeviceStruct>

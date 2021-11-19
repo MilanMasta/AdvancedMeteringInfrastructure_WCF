@@ -1,0 +1,118 @@
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Milan\Desktop\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\res\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe.config
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMISystemManagement.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Permissions.xml
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.csproj.CopyComplete
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.exe
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMISystemManagement\obj\Debug\AMISystemManagement.pdb

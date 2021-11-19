@@ -1,0 +1,69 @@
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\GitRES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csprojAssemblyReference.cache
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\Najnoviji\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
+C:\Users\PC\Desktop\AdvancedMeteringInfrastructure-Baza-i-konekcija\AdvancedMeteringInfrastructure\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.AssemblyReference.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\RES\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe.config
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMIAgregator.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.dll
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon2.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\bin\Debug\AMICommon.pdb
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CoreCompileInputs.cache
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.csproj.CopyComplete
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.exe
+C:\Users\Milan\Desktop\FAKS\Treca 2\RES\RESProjekat\AdvancedMeteringInfrastructure\AMIAgregator\obj\Debug\AMIAgregator.pdb
